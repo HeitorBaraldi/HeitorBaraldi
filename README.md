@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=__________%3C/HeitorBaraldi%3E____________)
+
 <h1>Seja bem vindo ao meu Github 👋</h1>
-<h3>Heitor Baraldi</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=00BFFF&width=435&height=40&lines=__________%3C/HeitorBaraldi%3E____________)
 <p>📌 Campinas - SP - BR </p>
 <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas </p>
 </br>
