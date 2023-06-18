@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=00B3FF&width=435&height=40&lines=__________%3C/Heitor_Baraldi%3E____________)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=00B3FF&width=435&height=40&lines=__________%3C/Carlos_Baraldi%3E____________)
 
 <h1>Seja bem vindo ao meu Github 👋</h1>
 
